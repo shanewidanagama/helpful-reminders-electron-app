@@ -1,0 +1,26 @@
+{
+  "name": "helpful-reminders-electron-app",
+  "version": "1.0.0",
+  "description": "Desktop app that displays custom notireminders and affirmations",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanewidanagama/helpful-reminders-electron-app.git"
+  },
+  "author": "Shane Widanagama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanewidanagama/helpful-reminders-electron-app/issues"
+  },
+  "homepage": "https://github.com/shanewidanagama/helpful-reminders-electron-app#readme",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  },
+  "dependencies": {
+    "typescript": "^5.0.3"
+  }
+}
